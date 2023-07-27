@@ -11,4 +11,5 @@ hyperparametre tuning, count and tf-idf vectorizers, exporting vectorizers(mtx f
 exporting models(joblib files), take accuracy scores. 
 
 => Dataset <= https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
 => Part 2(Web Scraping) <= 
